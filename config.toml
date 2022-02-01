@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "http://examplesite.com/"
+baseurl = "https://jackosseasoning.onrender.com/"
 title = "Vex | hugo landing page template"
 theme = "vex"
 # post excert
