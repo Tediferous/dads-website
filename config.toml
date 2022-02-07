@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://jackosseasoning.onrender.com/"
+baseurl = "https://jackosseasoning.com/"
 title = "Jacko's Seasoning"
 theme = "vex"
 # post excert
